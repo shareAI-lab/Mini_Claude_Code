@@ -74,12 +74,17 @@ Task 工具生成隔离的子代理。上下文保持干净。
 
 ## 深入阅读
 
+**技术教程 (docs/):**
+
 | English | 中文 |
 |---------|------|
 | [v0: Bash is All You Need](./docs/v0-bash-is-all-you-need.md) | [v0: Bash 就是一切](./docs/v0-Bash就是一切.md) |
 | [v1: Model as Agent](./docs/v1-model-as-agent.md) | [v1: 模型即代理](./docs/v1-模型即代理.md) |
 | [v2: Structured Planning](./docs/v2-structured-planning.md) | [v2: 结构化规划](./docs/v2-结构化规划.md) |
 | [v3: Subagent Mechanism](./docs/v3-subagent-mechanism.md) | [v3: 子代理机制](./docs/v3-子代理机制.md) |
+
+**原创文章 (articles/) - 公众号风格:**
+- [v0文章](./articles/v0文章.md) | [v1文章](./articles/v1文章.md) | [v2文章](./articles/v2文章.md) | [v3文章](./articles/v3文章.md)
 
 ## 生产版本
 
