@@ -4,7 +4,7 @@
 
 [中文文档](./README_zh.md)
 
-> Works with **[Kode CLI](https://github.com/anthropics/kode)**, **Claude Code**, **Cursor**, and any agent supporting the [Agent Skills Spec](https://github.com/anthropics/agent-skills).
+> Works with **[Kode CLI](https://github.com/shareAI-lab/Kode)**, **Claude Code**, **Cursor**, and any agent supporting the [Agent Skills Spec](https://github.com/anthropics/agent-skills).
 
 <img height="400" alt="demo" src="https://github.com/user-attachments/assets/0e1e31f8-064f-4908-92ce-121e2eb8d453" />
 
@@ -130,7 +130,7 @@ SKILL.md files provide domain expertise on-demand. Knowledge as a first-class ci
 
 | Repository | Purpose |
 |------------|---------|
-| [Kode](https://github.com/anthropics/kode) | Full-featured open source agent CLI (production) |
+| [Kode](https://github.com/shareAI-lab/Kode) | Full-featured open source agent CLI (production) |
 | [shareAI-skills](https://github.com/shareAI-lab/shareAI-skills) | Production-ready skills for AI agents |
 | [Agent Skills Spec](https://github.com/anthropics/agent-skills) | Official specification |
 

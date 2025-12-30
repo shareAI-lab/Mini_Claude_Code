@@ -4,7 +4,7 @@
 
 [English](./README.md)
 
-> 兼容 **[Kode CLI](https://github.com/anthropics/kode)**、**Claude Code**、**Cursor**，以及任何支持 [Agent Skills Spec](https://github.com/anthropics/agent-skills) 的 Agent。
+> 兼容 **[Kode CLI](https://github.com/shareAI-lab/Kode)**、**Claude Code**、**Cursor**，以及任何支持 [Agent Skills Spec](https://github.com/anthropics/agent-skills) 的 Agent。
 
 <img height="400" alt="demo" src="https://github.com/user-attachments/assets/0e1e31f8-064f-4908-92ce-121e2eb8d453" />
 
@@ -130,7 +130,7 @@ SKILL.md 文件按需提供领域专业知识。知识作为一等公民。
 
 | 仓库 | 用途 |
 |------|------|
-| [Kode](https://github.com/anthropics/kode) | 全功能开源 Agent CLI（生产环境） |
+| [Kode](https://github.com/shareAI-lab/Kode) | 全功能开源 Agent CLI（生产环境） |
 | [shareAI-skills](https://github.com/shareAI-lab/shareAI-skills) | 生产就绪的 AI Agent Skills |
 | [Agent Skills Spec](https://github.com/anthropics/agent-skills) | 官方规范 |
 
