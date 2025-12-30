@@ -1,5 +1,11 @@
 # Mini Claude Code
 
+> **本仓库已迁移至 [learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)**
+>
+> 请访问新仓库获取最新内容和更新。
+
+---
+
 **从零开始构建你自己的 AI Agent。**
 
 [English](./README.md)
@@ -130,6 +136,7 @@ SKILL.md 文件按需提供领域专业知识。知识作为一等公民。
 
 | 仓库 | 用途 |
 |------|------|
+| [learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | 本项目的新地址 |
 | [Kode](https://github.com/shareAI-lab/Kode) | 全功能开源 Agent CLI（生产环境） |
 | [shareAI-skills](https://github.com/shareAI-lab/shareAI-skills) | 生产就绪的 AI Agent Skills |
 | [Agent Skills Spec](https://github.com/anthropics/agent-skills) | 官方规范 |
@@ -139,8 +146,8 @@ SKILL.md 文件按需提供领域专业知识。知识作为一等公民。
 Fork 并自定义为你自己的 Agent 项目：
 
 ```bash
-git clone https://github.com/shareAI-lab/mini-claude-code
-cd mini-claude-code
+git clone https://github.com/shareAI-lab/learn-claude-code
+cd learn-claude-code
 # 从任意版本级别开始
 cp v1_basic_agent.py my_agent.py
 ```

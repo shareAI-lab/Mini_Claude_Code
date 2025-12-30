@@ -1,5 +1,11 @@
 # Mini Claude Code
 
+> **This repository has moved to [learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)**
+>
+> Please visit the new repository for the latest content and updates.
+
+---
+
 **Build your own coding agent from scratch.**
 
 [中文文档](./README_zh.md)
@@ -130,6 +136,7 @@ SKILL.md files provide domain expertise on-demand. Knowledge as a first-class ci
 
 | Repository | Purpose |
 |------------|---------|
+| [learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | New home for this project |
 | [Kode](https://github.com/shareAI-lab/Kode) | Full-featured open source agent CLI (production) |
 | [shareAI-skills](https://github.com/shareAI-lab/shareAI-skills) | Production-ready skills for AI agents |
 | [Agent Skills Spec](https://github.com/anthropics/agent-skills) | Official specification |
@@ -139,8 +146,8 @@ SKILL.md files provide domain expertise on-demand. Knowledge as a first-class ci
 Fork and customize for your own agent projects:
 
 ```bash
-git clone https://github.com/shareAI-lab/mini-claude-code
-cd mini-claude-code
+git clone https://github.com/shareAI-lab/learn-claude-code
+cd learn-claude-code
 # Start from any version level
 cp v1_basic_agent.py my_agent.py
 ```
